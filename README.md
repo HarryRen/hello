@@ -1,15 +1,5 @@
 # hello
 hello
 
-
-lkjdsaflkjdlfjdsaf
-
-
-
-@asdfadsaf
-
-
-# jjjj
-alsflkdsjflksajfdl
-
+what is the difference zlib and zlib-devel
 
